@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+}
+table , th, td{
+    font-weight: bold;
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+th, td{
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+h1{
+    text-align: center;
+}
+.update{
+    background-color: rgb(185, 185, 185);
+}
+.add{
+    background-color: rgb(0, 183, 255);
+}
+.delete{
+    background-color: crimson;
+}
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
